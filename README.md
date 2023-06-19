@@ -1,4 +1,4 @@
-Solution to Home Credit Default Risk (Kaggle Challenge)
+## Solution to Home Credit Default Risk (Kaggle Challenge)
 
 1. Download the repository locally.
 
